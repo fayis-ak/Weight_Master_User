@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263132398388",
+    "project_id": "weigh-master-b7694",
+    "storage_bucket": "weigh-master-b7694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263132398388:android:a0feb8d9be81217dd1db61",
+        "android_client_info": {
+          "package_name": "com.example.weigh_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4DxIxiDTQ3vblhd3p4ba0ka2X75YCugc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
